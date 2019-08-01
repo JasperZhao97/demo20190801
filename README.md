@@ -34,3 +34,4 @@ String类 Math类
 	floor（）返回小于或者等于的一个double数，向下取整
 	Round（）四舍五入的返回整数
 	random（）返回一个0~1的随机数，大于或者等于0，小于1
+
